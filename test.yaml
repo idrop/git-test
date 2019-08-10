@@ -1,0 +1,5 @@
+foo:
+  :bar: baz
+  :boo: 2
+  :lolz: true
+  :buzz: fuzz
