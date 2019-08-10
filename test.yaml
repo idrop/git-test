@@ -1,6 +1,7 @@
 foo:
   :bar: bazz
-  :boo: 2
+  :boo: 3
+  :change: 3
   :lolz: true
   :buzz: fuzz
   :newline: true
