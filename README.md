@@ -1,2 +1,2 @@
 # git-test
-Test git issues
+A playground for testing git issues before borking real repos
