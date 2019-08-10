@@ -3,3 +3,4 @@ foo:
   :boo: 2
   :lolz: true
   :buzz: fuzz
+  :newline: true
